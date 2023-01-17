@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Natalia-Krakovetska/goit-react-hw-02-feedback/static/css/main.b5320759.css",
-    "main.js": "/Natalia-Krakovetska/goit-react-hw-02-feedback/static/js/main.d3665802.js",
+    "main.js": "/Natalia-Krakovetska/goit-react-hw-02-feedback/static/js/main.c533278d.js",
     "index.html": "/Natalia-Krakovetska/goit-react-hw-02-feedback/index.html",
     "main.b5320759.css.map": "/Natalia-Krakovetska/goit-react-hw-02-feedback/static/css/main.b5320759.css.map",
-    "main.d3665802.js.map": "/Natalia-Krakovetska/goit-react-hw-02-feedback/static/js/main.d3665802.js.map"
+    "main.c533278d.js.map": "/Natalia-Krakovetska/goit-react-hw-02-feedback/static/js/main.c533278d.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
-    "static/js/main.d3665802.js"
+    "static/js/main.c533278d.js"
   ]
 }
