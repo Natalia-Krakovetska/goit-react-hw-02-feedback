@@ -1,10 +1,14 @@
-export default function Section() {
-        return (
-            <section>
-               <h1>'Please leave feedback</h1>
+import PropTypes from 'prop-types';
 
-            </section>
-        )
-    };
+export default function Section({ title, children }) {
+  return (
+    <>
+      <h1>{title}</h1>
+      {children}
+    </>
+  );
+}
 
-
+Section.propTypes = {
+  title: PropTypes.string.isRequired,
+};
