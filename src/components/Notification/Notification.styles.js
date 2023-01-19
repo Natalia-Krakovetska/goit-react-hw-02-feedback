@@ -4,5 +4,5 @@ export const Message = styled.p`
   text-align: center;
   border: 1px solid gray;
   padding: 25px;
-  margin-left: 340px;
+  margin-left: 690px;
 `;

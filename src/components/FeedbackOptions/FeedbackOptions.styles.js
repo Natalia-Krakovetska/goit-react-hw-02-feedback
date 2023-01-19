@@ -11,4 +11,10 @@ export const FeedbackOptionsBtn = styled.button`
   background-color: #ffffff;
   border: 1px solid gray;
   border-radius: 4px;
+  :hover {
+    background-color: blue;
+  }
+  :focus {
+    background-color: blue;
+  }
 `;
