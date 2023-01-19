@@ -1,9 +1,10 @@
 import PropTypes from 'prop-types';
+import { SectionTitle } from './Section.styles';
 
 export default function Section({ title, children }) {
   return (
     <>
-      <h1>{title}</h1>
+      <SectionTitle>{title}</SectionTitle>
       {children}
     </>
   );
@@ -11,4 +12,5 @@ export default function Section({ title, children }) {
 
 Section.propTypes = {
   title: PropTypes.string.isRequired,
+  children: PropTypes.node,
 };

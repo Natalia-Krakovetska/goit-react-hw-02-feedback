@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
-export const FeedbackOptionsList = styled.div``;
+export const FeedbackOptionsList = styled.div`
+  text-align: center;
+`;
 export const FeedbackOptionsBtn = styled.button`
   margin-left: 20px;
   padding: 10px 30px;
